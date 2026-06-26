@@ -1,7 +1,7 @@
 <h1 align="center">Rajani Ranjan Jha</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=620&lines=Final+Year+B.Sc+CSDA+%40+IIT+Patna;Full-Stack+Developer;290%2B+LeetCode+Problems+Solved;Building+Products+That+Solve+Real+Problems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=620&lines=Final+Year+B.Sc+CSDA+%40+IIT+Patna;Full-Stack+Developer;320%2B+LeetCode+Problems+Solved;Building+Products+That+Solve+Real+Problems" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
   <a href="mailto:rajanijha50@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://rajanijha50.vercel.app/">
+  <a href="https://rajanijha50.vercel.app">
     <img height='30px' src="https://rajanijha50.vercel.app/favicon.ico" />
   </a>
 </p>
@@ -41,7 +41,7 @@ Focused on full-stack development (React / Next.js) and DSA — targeting SDE ro
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| [Daily Dock](https://github.com/rajanijha50/daily-dock) | All-in-one productivity suite — todos, notes, diary, and Pomodoro timer. Built with Next.js, TypeScript, and MongoDB | 🔨 In Progress |
+| [Daily Dock](https://github.com/rajanijha50/daily-dock) | All-in-one productivity suite — todos, notes, diary, and Pomodoro timer. Built with Next.js, TypeScript, and MongoDB | ✅ Deployed |
 | [Web Hunter](https://github.com/rajanijha50/web-hunter-next) | Your ultimate directory for discovering websites on the internet. 🌐 | 🔨 In Progress |
 | [Chat Z](https://github.com/rajanijha50/chat-app) | Real-time chat application with Next.js 15, Socket.IO, and user authentication | ✅ Complete |
 | [Quiz App](https://github.com/rajanijha50/quiz-app) | AI-powered quiz platform that dynamically generates questions and contextual explanations using React | ✅ Complete |
