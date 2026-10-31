@@ -1,7 +1,7 @@
 <h1 align="center">Rajani Ranjan Jha</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=098516&center=true&vCenter=true&width=620&lines=IIT+Patna+Graduate;Full-Stack+Developer;Solved+400%2B+LeetCode+Problems;Building+Products+That+Solve+Real+Problems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=098516&center=true&vCenter=true&width=620&lines=IIT+Patna+Graduate;Full-Stack+Developer;Solved+500%2B+LeetCode+Problems;Building+Products+That+Solve+Real+Problems" alt="Typing SVG" />
 </p>
 
 <p align="center">
